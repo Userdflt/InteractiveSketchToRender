@@ -1,8 +1,7 @@
 # Stable Diffusion XL Interactive Sketch & Inpainting Local App
 
-This repository contains a **Tkinter-based** Python application that allows users to:
-1. **Sketch** directly on a canvas (or import a base image) and generate images using **Stable Diffusion XL** + **ControlNet**.
-2. **Inpaint** specific regions on the generated image (e.g., erase or replace content) using Stable Diffusion XL’s inpainting pipeline.
+This is a personal project designed to transform rough sketches into photorealistic outputs and facilitate inpainting edits. 
+Leveraging open-source Stable Diffusion XL pipelines, it integrates ControlNet for robust sketch-based guidance and offers an intuitive Tkinter interface for generating, refining, and saving high-quality imagery.
    
 NOTE: Everything can be run locally
 
@@ -111,12 +110,6 @@ Below are placeholders for two short demo GIFs showcasing the main workflow:
    ![Sketch to Image](docs/demo.gif)
  
    ![Sketch to Image_2](docs/demo2.gif)
-
----
-
-## Video Demonstration
-
-  ![Demo_Video]([https://vimeo.com/1071282422?share=copy](https://vimeo.com/manage/videos/1071282422))
 
 ---
 
