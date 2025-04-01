@@ -110,13 +110,13 @@ Below are placeholders for two short demo GIFs showcasing the main workflow:
 
    ![Sketch to Image](docs/demo.gif)
  
-   ![Sketch to Image](docs/demo2.gif)
+   ![Sketch to Image_2](docs/demo2.gif)
 
 ---
 
 ## Video Demonstration
 
-  ![Long Video Demo](docs/full_demo.mp4)` 
+  ![Long Video Demo](docs/full_demo.mp4)
 
 ---
 
