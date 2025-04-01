@@ -1,4 +1,4 @@
-# Stable Diffusion XL Interactive Sketch & Inpainting Local App
+# Stable Diffusion XL Interactive Sketch & Inpainting Tool
 
 This is a personal project designed to transform rough sketches into photorealistic outputs and facilitate inpainting edits. 
 Leveraging open-source Stable Diffusion XL pipelines, it integrates ControlNet for robust sketch-based guidance and offers an intuitive Tkinter interface for generating, refining, and saving high-quality imagery.
