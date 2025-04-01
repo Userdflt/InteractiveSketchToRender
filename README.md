@@ -151,5 +151,8 @@ Below are placeholders for two short demo GIFs showcasing the main workflow:
 
 5. **Additional Post-Processing**  
    - Integrate upscaling pipelines.
+  
+6. **Generation with Related Image**
+   - Provide function to use base images for related generation.
 
 ---
