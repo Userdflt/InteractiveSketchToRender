@@ -116,7 +116,7 @@ Below are placeholders for two short demo GIFs showcasing the main workflow:
 
 ## Video Demonstration
 
-  ![Long Video Demo](docs/full_demo.mp4)
+  ![Demo_Video](https://vimeo.com/1071282422?share=copy)
 
 ---
 
